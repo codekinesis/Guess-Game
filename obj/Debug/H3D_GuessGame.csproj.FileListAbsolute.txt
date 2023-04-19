@@ -1,0 +1,6 @@
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/obj/Debug/H3D_GuessGame.csproj.AssemblyReference.cache
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/obj/Debug/H3D_GuessGame.csproj.CoreCompileInputs.cache
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/bin/Debug/H3D_GuessGame.exe
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/bin/Debug/H3D_GuessGame.pdb
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/obj/Debug/H3D_GuessGame.exe
+/Users/TeLeKiNeSiS/Projects/H3D_GuessGame/obj/Debug/H3D_GuessGame.pdb
